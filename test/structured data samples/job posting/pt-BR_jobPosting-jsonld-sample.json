@@ -1,0 +1,57 @@
+<script type="application/ld+json"> {
+  "@context" : "http://schema.org/",
+  "@type" : "JobPosting",
+  "title" : "Analista De Pmo Pleno",
+  "description" : "<p>Esta posição de analista pleno de PMO dará suporte às operações do grupo Dentsu Aegis Network, com 
+  reporte a um coordenador. Dentsu Aegis Network é um dos maiores grupos de comunicação do mundo, presente em diversos p
+  aíses, com cerca de 30 mil profissionais. Nosso escritório no Brasil está situado na Vila Madalena.</p>
+  \r\r\r\r\r\r\r\r\r\r<b>\r\r\r\rResponsabilidades\r\r\r</b>\r\r\r\r\r\r\r
+  <p>Mapear, desenhar e revisar processos, analisar e fornecer informações para os gestores de projetos, elaborar relatórios 
+  gerenciais, auxiliar para a evolução constante de nossas metodologias, configurar e atualizar informações de nossas 
+  ferramentas, gerenciar projetos internos, realizar treinamentos para nossos funcionários e clientes.</p>
+  \r\r\r\r\r\r\r\r\r\r<b>\r\r\r\rQualificações\r\r\r</b>\r\r\r\r\r\r\r
+  <p>- Superior completo em Sistemas da Informação, Administração Engenharia ou Publicidade e Propaganda; 
+  <br />
+  - Conhecimentos em Gerenciamento de Projetos e Métodos Ágeis; 
+  <br />
+  - Conhecimentos em mapeamento de processos; 
+  <br />
+  - Experiência na realização de treinamentos para equipe interna;
+  <br />
+  - Experiência atuando em Escritório de Projetos (PMO);
+  <br />
+  - Inglês avançado.</p>",
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "DENTSU INC.",
+    "value": "1234567"
+  },
+  "datePosted" : "2018-01-07",
+  "validThrough" : "2018-02-06",
+  "employmentType" : "FULL_TIME",
+  "hiringOrganization" : {
+    "@type" : "Organization",
+    "name" : "DENTSU INC.",
+    "sameAs" : "http://www.example.com/",
+    "logo" : "http://www.example.com/images/logo.png"
+  },
+  "jobLocation" : {
+    "@type" : "Place",
+    "address" : {
+      "@type" : "PostalAddress",
+      "addressLocality" : "São Paulo",
+      "addressRegion" : "SP",
+      "addressCountry": "BR"
+    }
+  },
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 40.00,
+      "unitText": "HOUR"
+    }
+  }
+}
+</script>

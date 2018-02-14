@@ -1,0 +1,60 @@
+<script type="application/ld+json"> {
+  "@context" : "http://schema.org/",
+  "@type" : "JobPosting",
+  "title" : "Ejecutivos Telefónicos Medio Tiempo",
+  "description" : "<p><strong>Descripción</strong></p>
+	<p>Intégrate A Una Empresa Reconocida A Nivel Mundial</p>
+	<p>Lo~jack México</p>
+	<p>lider Mundial En La Recuperación Y Localización De Vehiculos</p>
+	<p>ejecutivos Telefónicos Medio Tiempo</p>
+	<p><strong>REQUISITOS:</strong></p> 
+    <p>- 18 años en adelante
+    <br />
+    - Preparatoria o carrera técnica terminada
+    <br />
+    - Manejo intermedio de Paqueteria Office, Correo Electrónico e Internet
+    <br />
+    - Experiencia deseable 6 meses en Call Center (Ventas, Retenciones, Portabilidad)
+    <br />
+    - Gusto por las Ventas y Atención al Cliente.</p>
+    <p><strong>Ofrecemos:</strong></p>
+    - Lunes a Sábado 6 horas diarias (Matutino y Vespertino) 
+    - Descansos domingos Fijos
+    <br />
+    - Sueldo base de $3,000 + Bono garantizado de $2,000 en los tres primero meses + Comisiones + Atractivo Plan de incentivos 
+    <br />
+    - Tus prestaciones de Ley desde el primer día (IMSS inmediato) 
+    <br />
+    - Oportunidad de crecimiento profesional.
+    </p>",
+   "identifier": {
+    "@type": "PropertyValue",
+    "name": "LO~JACK",
+    "value": "1234567"
+  },
+  "datePosted" : "2018-01-06T03:31:16+00:00",
+  "validThrough" : "2018-03-07T03:31:16+00:00",
+  "employmentType" : "PART_TIME",
+  "hiringOrganization" : {
+    "@type" : "Organization",
+    "name" : "LO~JACK",
+    "sameAs" : "http://www.example.com/",
+    "logo" : "http://www.example.com/images/logo.png"
+  },
+  "jobLocation" : {
+    "@type" : "Place",
+    "address" : {
+      "@type" : "PostalAddress",
+      "addressLocality" : "Ciudad de México",
+      "addressRegion" : "Distrito Federal",
+      "addressCountry": "mx"
+    }
+  },
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "MXN",
+    "value": "Sueldo Base + Comisiones + Bonos + Prestaciones"
+  }
+}
+</script>
+
